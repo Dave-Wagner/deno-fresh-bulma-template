@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "denoland.vscode-deno",
+    "github.vscode-github-actions",
+    "reliutg.bulma-css-class-completion"
+  ]
+}
